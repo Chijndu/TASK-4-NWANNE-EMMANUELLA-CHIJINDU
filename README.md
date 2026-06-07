@@ -38,7 +38,8 @@ Screenshots
 
 Below are screenshots of the interactive prototype:
 
-(Add screenshots here)
+<img width="610" height="614" alt="Screenshot 2026-06-07 005658" src="https://github.com/user-attachments/assets/d6a23e6b-bd07-406d-96f0-7a521da27772" /><img width="1366" height="768" alt="Screenshot 2026-06-07 005714" src="https://github.com/user-attachments/assets/710f1250-3ee8-42e5-9d7e-7e120612ece7" />
+
 
 Prototype Overview
 Screen Transitions
